@@ -1,0 +1,12 @@
+.margen_top{
+	margin-top: 150px;
+	background: rgb(128,128,128);
+	height: 220px;
+	padding-top: 20px;
+	border-radius: 20px;
+}
+.alturaAnchuraUpload{
+	margin-top: 100px;
+	width: 200px;
+	height: 200px;
+}
